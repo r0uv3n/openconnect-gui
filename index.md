@@ -5,8 +5,8 @@
 The client is currently at beta testing phase.
 
 ***
- * [Download](https://github.com/openconnect/openconnect-gui/releases)
- * [Issue tracker](https://github.com/openconnect/openconnect-gui/issues)
+ * [Download](https://gitlab.com/openconnect/openconnect-gui/-/releases)
+ * [Issue tracker](https://gitlab.com/openconnect/openconnect-gui/-/issues)
  * [Frequently Asked Questions](https://github.com/openconnect/openconnect-gui/wiki/FAQ)
 
 ***
